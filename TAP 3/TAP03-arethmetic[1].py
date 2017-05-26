@@ -1,3 +1,13 @@
+"""
+Name: Kjell Chr. Larsen
+
+
+First in this assignment you’re going to make a program that calculates two
+different variables that are typed in by the user. You going to use the addition,
+subtraction, multiplication, division, floor division, modulus and exponent. Print
+the answer for each different operation.
+"""
+
 print("Hi! and welcome to the Arethmetic program where you can enter two numbers \n"
       "that will be run through some different arethmetic operatoprs. \n\n")
 
