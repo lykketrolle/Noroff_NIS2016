@@ -2,6 +2,11 @@
 """
 Made by: Kjell Chr. Larsen
 Date: 18.05.2017
+
+Make a program that let the user compare values, use all operations, ex:
+5 > 3 = True
+5 < 3 = False
+
 """
 print("This program will compare the values you enter with different operators\n"
       "like 'greater than or equal to' operators. The results will be printed "
